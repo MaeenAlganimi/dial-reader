@@ -45,3 +45,11 @@ Photos go to the Gemini API for reading and are not stored by the app. Readings 
 - `src/lib/gemini.ts`: small REST client with model fallback
 - `src/app/api/read/route.ts`: upload validation and the vision call
 - `src/app/page.tsx`: capture, review, and history UI
+
+## AI-assisted development
+
+This project was built with AI-assisted development: the code, tests and docs were drafted with an AI assistant and then checked by running the project's tests and build. It has not had an independent security audit, and nothing here is a claim about real users or production traffic.
+
+## License
+
+[MIT](LICENSE). Copyright (c) 2026 Maeen Alganimi.
